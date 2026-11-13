@@ -162,28 +162,36 @@ plt.show()
 ```
 
 ### Developed By:
-**Name:** MIDHUN S
+**Name:** ADITHYA M
 
-### Register No: 212224230158
+### Register No: 212224230008
 
 ---
 
 ##  Output
-<img width="657" height="387" alt="image" src="https://github.com/user-attachments/assets/adca6a72-af7e-4fb0-ae61-6637f56e2bef" />
+<img width="552" height="343" alt="image" src="https://github.com/user-attachments/assets/d069a70d-b986-4989-a417-d721c118d116" />
 
-<img width="665" height="495" alt="image" src="https://github.com/user-attachments/assets/80dc6300-f16b-49fc-abb9-af00afdf92ea" />
 
-<img width="676" height="517" alt="image" src="https://github.com/user-attachments/assets/e9789b45-0f10-4298-92c9-8e45c4717aec" />
+<img width="570" height="434" alt="image" src="https://github.com/user-attachments/assets/cbf0d0c5-8c97-4eaf-a12e-62c78057e083" />
 
-<img width="650" height="397" alt="image" src="https://github.com/user-attachments/assets/f2fbad8f-b6aa-477f-a26b-bd66ea507813" />
 
-<img width="650" height="375" alt="image" src="https://github.com/user-attachments/assets/ff160f2a-d418-4b72-8661-fa71c332596b" />
+<img width="570" height="434" alt="image" src="https://github.com/user-attachments/assets/bbc4c8c9-a244-45d4-81df-cc3cac7b3729" />
 
-<img width="655" height="480" alt="image" src="https://github.com/user-attachments/assets/94a30bc4-0d1a-4f58-ade8-7e1f127928ef" />
 
-<img width="1222" height="342" alt="image" src="https://github.com/user-attachments/assets/989b0cf9-b456-4de0-9ac9-e0ef861777c5" />
+<img width="552" height="343" alt="image" src="https://github.com/user-attachments/assets/02f8dfb2-1553-4cdd-8f12-66360889352d" />
 
-<img width="1240" height="391" alt="image" src="https://github.com/user-attachments/assets/a79bb0e7-593e-411d-b1ae-3092d09d22fd" />
+
+<img width="552" height="343" alt="image" src="https://github.com/user-attachments/assets/8ecbad52-f3cf-45cf-90fe-db6d7602498c" />
+
+
+<img width="570" height="434" alt="image" src="https://github.com/user-attachments/assets/a8b7b4a8-de8d-4dc1-bb56-228aece9adfc" />
+
+
+<img width="1524" height="414" alt="image" src="https://github.com/user-attachments/assets/401e0593-de3a-495c-aa5f-2c0eb602255f" />
+
+
+<img width="1237" height="372" alt="image" src="https://github.com/user-attachments/assets/bdf95727-edbc-476f-8fd2-7f1ed95574fe" />
+
 
 
 
